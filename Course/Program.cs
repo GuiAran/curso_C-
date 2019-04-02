@@ -13,6 +13,7 @@ namespace Course
             lista.Add("Maria");
             lista.Add("Alex");
             lista.Add("Joao");
+            lista.Add("Guilherme");
 
             foreach (string pessoa in lista)
             {
